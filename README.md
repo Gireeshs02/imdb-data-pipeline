@@ -78,3 +78,8 @@ A Python-based ETL (Extract, Transform, Load) project to process the IMDb datase
 
 Contributions are welcome!
 Feel free to open issues, submit pull requests, or suggest improvements.
+
+---
+
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
