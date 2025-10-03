@@ -64,7 +64,7 @@ A Python-based ETL (Extract, Transform, Load) project to process the IMDb datase
 
 6. **Download the Data**
     ```bash
-    py download_data.py
+    py download-data.py
     ```
 
 7. **Run the Project**
@@ -77,6 +77,7 @@ A Python-based ETL (Extract, Transform, Load) project to process the IMDb datase
 ## 🤝 Contributing
 
 Contributions are welcome!
+
 Feel free to open issues, submit pull requests, or suggest improvements.
 
 ---
